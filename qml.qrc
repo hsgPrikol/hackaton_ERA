@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ImageAndInfo.qml</file>
+        <file>Skills.qml</file>
+        <file>Science.qml</file>
+        <file>Abilities.qml</file>
+        <file>AdditionalInfo.qml</file>
+        <file>Profile.qml</file>
+        <file>OperatorList.qml</file>
+        <file>OperatorCard.qml</file>
+        <file>Tag.qml</file>
+        <file>WindowList.qml</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>picture/aboutme.png</file>
+        <file>picture/avatar.jpg</file>
+        <file>picture/axis.png</file>
+        <file>picture/gjqlt.jpg</file>
+        <file>picture/list-check.png</file>
+        <file>picture/Triangle.png</file>
+        <file>picture/tweets-btn.png</file>
+        <file>picture/ПРОФИЛЬ.png</file>
+        <file>picture/листик 60х60.png</file>
+        <file>picture/листик белый.png</file>
+        <file>picture/шкала.png</file>
+    </qresource>
+</RCC>
